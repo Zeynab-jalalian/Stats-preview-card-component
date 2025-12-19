@@ -115,6 +115,9 @@ main {
 }
 
 @media (max-width: 800px) {
+  body {
+    height: 100%;
+  }
   main {
     flex-direction: column-reverse;
   }
