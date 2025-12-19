@@ -1,7 +1,7 @@
 # Frontend Mentor - Stats-preview-card-component
 
 
-![Design preview](https://github.com/Zeynab-jalalian/Order-summary-component/blob/main/pic.png)
+![Design preview](https://github.com/Zeynab-jalalian/Stats-preview-card-component/blob/main/screencapture-127-0-0-1-5500-index-html-2025-12-19-14_41_45.png)
 
 ## Welcome! 👋
 
